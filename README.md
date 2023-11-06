@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyakshrma" alt="samyakshrma" /></a> </p>
 
-- 🔭 I’m currently working on a [Waste Management system](https://github.com/Samyakshrma/Wastemanagement)
-
-- 🌱 I’m currently learning **Lynix and Javascript .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samyakshrma](https://github.com/Samyakshrma)
 
